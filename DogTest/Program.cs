@@ -10,6 +10,17 @@ namespace DogTest
     {
         static void Main(string[] args)
         {
+            // Dogクラスのインスタンス hachi を生成する
+            Dog hachi = new Dog();
+            hachi.Bark();
+
+            // Dogクラスのインスタンス pochi を生成する
+            Dog pochi = new Dog();
+            pochi.Bark();
+            pochi.Run();
+
+            // 一時停止
+            Console.ReadLine();
         }
     }
 }

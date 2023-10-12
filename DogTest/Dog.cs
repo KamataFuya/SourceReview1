@@ -8,5 +8,14 @@ namespace DogTest
 {
     internal class Dog
     {
+        public void Bark()
+        {
+            Console.WriteLine("ガウガウ");
+        }
+
+        public void Run()
+        {
+            Console.WriteLine("わんわんわん");
+        }
     }
 }
