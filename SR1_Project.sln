@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DogTest", "DogTest\DogTest.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SR1_03_02", "SR1_03_02\SR1_03_02.csproj", "{2943F88F-487D-45FF-A42F-8AFA14EC9662}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SR1_04_02", "SR1_04_02\SR1_04_02.csproj", "{3E5B703D-D56B-4DAB-A04C-434162622754}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{2943F88F-487D-45FF-A42F-8AFA14EC9662}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2943F88F-487D-45FF-A42F-8AFA14EC9662}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2943F88F-487D-45FF-A42F-8AFA14EC9662}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E5B703D-D56B-4DAB-A04C-434162622754}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E5B703D-D56B-4DAB-A04C-434162622754}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E5B703D-D56B-4DAB-A04C-434162622754}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E5B703D-D56B-4DAB-A04C-434162622754}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
