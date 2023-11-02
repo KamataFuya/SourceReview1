@@ -12,6 +12,10 @@ namespace SR1_04_02
         {
             Player player = new Player("ロト", 1);
 
+            //提出課題
+            //player.level = 99999;
+            //Console.WriteLine("レベル : {0}", player.GetLevel());
+
             Console.WriteLine("名前 : {0}", player.GetName());
             Console.WriteLine("レベル : {0}", player.GetLevel());
 
